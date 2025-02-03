@@ -1,0 +1,83 @@
+.music{
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.index{
+    text-align: center;
+    background-image: url("musicbg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.heading{
+    margin-top:100px;
+    color:rgb(92, 199, 209);
+    font-family: "Arvo" cursive;
+    text-align:center;
+    font-size-adjust: 1.49;
+}
+.drum{
+    margin-top: 200px;
+    text-align:center;
+    gap: 30px;
+}
+
+.w{
+    background-image: url();
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    padding-right: 20px;
+    font-family: "Arvo" cursive;
+}
+.a{
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: "Arvo" cursive;
+}
+.d{
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: "Arvo" cursive;
+}
+.s{
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    font-family: "Arvo" cursive;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.j{
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    padding-right: 20px;
+    font-family: "Arvo" cursive;
+    padding-left: 20px;
+}
+.k{
+    width: 80px;
+    height:80px;
+    font-size:xx-large;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: "Arvo" cursive;
+}
+
+.bottom{
+    font-family: "Arvo" cursive;
+    margin-top:900px;
+    text-align:center;
+    font-size: x-large;
+    color:antiquewhite;
+}
